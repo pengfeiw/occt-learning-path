@@ -2,6 +2,8 @@
 
 会用 TopExp_Explorer 遍历 TopoDS_Shape，并理解 OCC 的拓扑层级。
 
+读取 bottle.brep 文件，打印 TopoDS_Shape 中的拓扑结构。
+
 ## 方法
 
 根据 [OCC Modeling Data](https://dev.opencascade.org/doc/overview/html/occt_user_guides__modeling_data.html?utm_source=chatgpt.com) 学习。
